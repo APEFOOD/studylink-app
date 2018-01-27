@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654563898053",
+    "firebase_url": "https://tlapp-fd19b.firebaseio.com",
+    "project_id": "tlapp-fd19b",
+    "storage_bucket": "tlapp-fd19b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654563898053:android:b3ec0b5e66fe830c",
+        "android_client_info": {
+          "package_name": "com.thutolwethu.tlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654563898053-dmu1gsniooq799ba7l2ci1pj608no2uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thutolwethu.tlapp",
+            "certificate_hash": "49417c35689afc96b19c589c860d8d827b1baab4"
+          }
+        },
+        {
+          "client_id": "654563898053-6lfbpmqodsea437q7b619de2hpe6tik2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMM5aLBH7NhFSr7cwnm2KsJ5cZPUeHVlk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654563898053-6lfbpmqodsea437q7b619de2hpe6tik2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
