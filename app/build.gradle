@@ -33,6 +33,8 @@ dependencies {
     compile 'com.afollestad:easyvideoplayer:0.3.0'
     compile 'com.folioreader:folioreader:0.3.3'
     compile 'com.github.timigod:android-chat-ui:v0.1.3'
+    compile 'com.android.support:design:26.0.0'
+
 }
 
 
